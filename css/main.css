@@ -3,7 +3,7 @@
     color: white;
 }
 .text-skyblue{
-    color: aqua;
+    color: #7FADFF;
 }
 .text-gray{
     color: gray;
@@ -19,4 +19,8 @@
 }
 .tittle{
     padding: 11rem 18rem 2rem;
+}
+/*SECTION2*/
+.icon{
+    font-size: 2.5rem;
 }
