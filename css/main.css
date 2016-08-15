@@ -1,8 +1,22 @@
-header img{
-    width: 
+/*TEXT COLORS*/
+.text-white{
+    color: white;
 }
+.text-skyblue{
+    color: aqua;
+}
+.text-gray{
+    color: gray;
+}
+/*SECTION1*/
 .bg-image{
     background-image: url(../image/large.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+.jumbotron{
+    background-color: transparent;
+}
+.tittle{
+    padding: 11rem 18rem 2rem;
 }
